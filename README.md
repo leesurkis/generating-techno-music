@@ -17,12 +17,12 @@ The model in this project was trained on 38 techno midi files downloaded from ht
 
 ## Training the model
 
-* Please see the **training.py** file to train the LSTM on the midi files. Midi files saved in ./midi_songs can be replaced with other genres of music. 
+* Please see the **Generating_Techno_Music-Train.py** file to train the LSTM on the midi files. Midi files saved in ./midi_songs can be replaced with other genres of music. 
 * Works best with one instrument but can be run multiple times to generate different midi files for different instruments. 
 
 ## Generating music
 
-* Please see **predict.py** to generate techno midi files
+* Please see **Generating_Techno_Music-Predict.py** to generate techno midi files
 * Weights will be saved after each epoch so model can be stopped when you are satisfied with the loss
 
 To read more about this project, see the full blog post here or a powerpoint presentation here. 
