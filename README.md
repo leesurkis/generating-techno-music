@@ -25,7 +25,7 @@ The model in this project was trained on 38 techno midi files downloaded from ht
 * Please see **predict.py** to generate techno midi files
 * Weights will be saved after each epoch so model can be stopped when you are satisfied with the loss
 
-Please see the full blog post here and view a pdf of my slides here. 
+To read more about this project, see the full blog post here or a powerpoint presentation here. 
 
 ## References
 
